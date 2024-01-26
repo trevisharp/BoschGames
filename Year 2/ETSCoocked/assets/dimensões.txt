@@ -1,0 +1,7 @@
+Player -- w:30 , H:40
+
+Food -- w: 9, H: 10
+
+Bench -- w:32, H:16
+
+Corner Bench -- w: 16, H:16
